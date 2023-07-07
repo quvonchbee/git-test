@@ -1,0 +1,289 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  body {
+    margin-left: 115px;
+  }
+  .Pay {
+    margin-top: 121px;
+  }
+  .Pay h2 {
+    font-size: 38px;
+    width: 566px;
+    margin-left: 645px;
+    margin-top: -300px;
+    color: #1786f9;
+  }
+  .Pay p {
+    width: 555px;
+    margin-left: 645px;
+    margin-top: 20px;
+    line-height: 151%;
+    font-size: 18px;
+  }
+  .App {
+    border: 1px solid;
+    width: 197px;
+    height: 63px;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+  }
+  .App p {
+    font-size: 13px;
+    margin-left: 15px;
+    margin-top: -30px;
+  }
+  .App h3 {
+    font-size: 22px;
+    margin-left: -100px;
+    margin-top: 20px;
+  }
+  .Get {
+    margin-left: 645px;
+    margin-top: 24px;
+    display: flex;
+    gap: 18px;
+  }
+  .Apps {
+    border: 1px solid;
+    width: 197px;
+    height: 63px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+  }
+  .Apps i {
+    color: rgb(21, 241, 131);
+  }
+  .Apps p {
+    font-size: 13px;
+    margin-left: 15px;
+    margin-top: -30px;
+  }
+  .Apps h3 {
+    font-size: 22px;
+    margin-left: -50px;
+    margin-top: 15px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    width: 1440px;
+    height: 3200px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+
+
+.rass{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+.tex h2{
+    line-height: 138%;
+    color: #1786F9;
+}
+
+
+
+
+
+
+
+
+
+
+
+.iph img{
+    border-radius: 20px;
+}
+
+.tel img{
+    border-radius: 20px;
+}
+.bank{
+    margin-top: 20px;
+}
+
+.section2 h2{
+    color: #1786F9;
+}
+
+.section3 h2{
+    color: #1786F9;
+}
+
+.section2 button{
+    width: 286px;
+    height: 54px;
+    background-color: #F8D617;
+    box-shadow: 1px 4px 6px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #F8D617;
+    border-radius: 7px;
+}
+
+.but1{
+    margin-top: 20px;
+}
+.pho1 h1{
+    margin-top: 10px;
+    color: #1786F9;
+}
+
+.pho1 p{
+    margin-top: 15px;
+    line-height: 175%;
+}
+
+.section3 button{
+    width: 286px;
+    height: 54px;
+    background-color: #F8D617;
+    box-shadow: 1px 4px 6px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #F8D617;
+    border-radius: 7px;
+}
+
+.pho3 p{
+    margin-top: 20px;
+}
+
+.pho4 p{
+    margin-top: 20px;
+}
+
+.pho4 button{
+    margin-top: 24px;
+}
+
+.section4{
+    margin-top: 200px;
+}
+
+.cap{
+    margin-top: 200px;
+}
+
+.sections{
+    display: flex;
+    justify-content: space-between;
+}
+
+.reci{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.meh{
+    position: relative;
+}
+.meh1 img{
+    position: absolute;
+    margin-top: -240px;
+    padding-left: 230px;
+}
+
+.app1 h1{
+    margin-top: 20px;
+    color: #171F4E;
+
+}
+.reci{
+    margin-top: 20px;
+}
+
+.but2 button{
+    width: 301px;
+    height: 54px;
+    background-color: #F8D617;
+    border-radius: 7px;
+    box-shadow: 1px 4px 6px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 30px;
+    border: 2px solid #F8D617;
+}
+
+
+.meh img{
+    position: absolute;
+    margin-top: -360px;
+    padding-left: 25px;
+}
+
+
+
+.sectionend{
+    margin-top: 100px;
+}
+
+.text1{
+    text-align: center;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+
+
+
+.icons p{
+    font-size: 24px;
+    color: #000000;
+}
